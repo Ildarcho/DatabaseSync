@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jobs>
+    <job DepCode="00" DepJob="director" Description="effective manager"/>
+    <job DepCode="04" DepJob="programmer" Description="programs some things...."/>
+    <job DepCode="04" DepJob="tester" Description="test test test"/>
+    <job DepCode="04" DepJob="sysadmin" Description="did you reboot it? Yes? Reboot it again"/>
+</jobs>
